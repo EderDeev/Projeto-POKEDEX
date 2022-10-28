@@ -41,14 +41,17 @@
         max-width: 992px;
         height: auto;
         margin: 1rem auto;
+        border-radius: 10px 10px 10px 10px;
         
     }
+    
 }
 @media screen and (min-width: 380px) {
     .content {
         max-width: 992px;
         height: auto;
         margin: 1rem auto;
+        border-radius: 10px 10px 10px 10px;
         
     }
 }
