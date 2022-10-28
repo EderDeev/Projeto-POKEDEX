@@ -1,20 +1,6 @@
-@font-face {
-    font-family: 'pokemon' ;
-    src: url(fonts/PokemonSolid.ttf);
-}
-
 * {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
-}
-
-body {
-    background-color: #f6f8fc;
-    background-image: url(img/imagemDeFundo.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    
 }
 
 .content {
@@ -32,11 +18,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-.content > .topo> h1 {
-    font-family:'pokemon', Courier, monospace;
-    font-size: 40px;
-    margin: 20px;
-}
+
 .content > .topo > img{
     width: 150px;
 }
