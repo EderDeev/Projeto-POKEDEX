@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'pokemon' ;
-    src: url(/fonts/PokemonSolid.ttf);
+    src: url(fonts/PokemonSolid.ttf);
 }
 
 * {
@@ -10,7 +10,7 @@
 
 body {
     background-color: #f6f8fc;
-    background-image: url(/img/imagemDeFundo.jpg);
+    background-image: url(img/imagemDeFundo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
