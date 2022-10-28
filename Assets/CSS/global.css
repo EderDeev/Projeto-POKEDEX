@@ -9,7 +9,7 @@
     padding: 1rem;
     background-color: #5290ff;
     text-align: center;
-    border-radius: 10px 10px 250px 5px;
+    border-radius: 10px 10px 150px 5px;
     border: 10px solid #27519a;
     
 }
@@ -41,7 +41,6 @@
         max-width: 992px;
         height: auto;
         margin: 1rem auto;
-        border-radius: 10px 10px 10px 10px;
         
     }
     
@@ -51,7 +50,6 @@
         max-width: 992px;
         height: auto;
         margin: 1rem auto;
-        border-radius: 10px 10px 10px 10px;
         
     }
 }
